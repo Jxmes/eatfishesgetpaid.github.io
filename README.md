@@ -6,7 +6,7 @@ eatfishesgetpaid.github.oi
 * [License] https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#License
 * [Credits] https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#Credits
 
-##License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2015 eatfishesgetpaid
