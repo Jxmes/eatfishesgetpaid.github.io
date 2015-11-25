@@ -1,5 +1,5 @@
 ## EatFishesGetPaid
-eatfishesgetpaid.github.oi
+http://eatfishesgetpaid.github.io
 
 *eat the fish, get the cash*
 
@@ -37,6 +37,7 @@ SOFTWARE.
 ---
 
 ## Credits
-By [@A1fus](twitter.com/a1fus)
+Made by:
 
-By [@JoeClarke319](twitter.com/joeclarke319)
+- [@A1fus](twitter.com/a1fus)
+- [@JoeClarke319](twitter.com/joeclarke319)
