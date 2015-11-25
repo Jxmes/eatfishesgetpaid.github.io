@@ -37,4 +37,4 @@ SOFTWARE.
 
 ## Credits
 By [@A1fus](twitter.com/a1fus)
-By [@JoeClarke319](twitter.com/joeclarke319
+By [@JoeClarke319](twitter.com/joeclarke319)
