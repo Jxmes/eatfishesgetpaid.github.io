@@ -1,5 +1,5 @@
 ## EatFishesGetPaid
-eatfishesgetpaid.github.oi
+http://eatfishesgetpaid.github.io
 
 *eat the fish, get the cash*
 
