@@ -2,9 +2,13 @@
 eatfishesgetpaid.github.oi
 *eat the fish, get the cash*
 
+---
+
 ## Contents
 * [License] https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#License
 * [Credits] https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#Credits
+
+---
 
 ## License
 The MIT License (MIT)
@@ -29,6 +33,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+---
 
 ## Credits
 By [@A1fus](twitter.com/a1fus)
