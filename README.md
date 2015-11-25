@@ -41,4 +41,4 @@ Made with :heart: by:
 
 - [@A1fus](twitter.com/a1fus)
 - [@JoeClarke319](twitter.com/joeclarke319)
-- [@httpjames](twitter.com/httphjames)
+- [@httpjames](twitter.com/httpjames)
