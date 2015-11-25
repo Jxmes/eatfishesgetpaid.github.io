@@ -5,8 +5,8 @@ eatfishesgetpaid.github.oi
 ---
 
 ## Contents
-* [License] https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#License
-* [Credits] https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#Credits
+* [License](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#License)
+* [Credits](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#Credits)
 
 ---
 
