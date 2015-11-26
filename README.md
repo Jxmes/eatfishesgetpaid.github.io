@@ -3,8 +3,6 @@ http://eatfishesgetpaid.github.io
 
 *eat the fish, get the cash*
 
----
-
 ## Contents
 * [Contributing](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/README.md#Contributing)
 * [License](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#License)
