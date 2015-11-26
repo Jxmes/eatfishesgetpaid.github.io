@@ -12,6 +12,13 @@ patches and features.
 
 ---
 
+## Contents
+- [Bug reports](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/CONTRIBUTING.md#bug-reports)
+- [Pull requests](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/CONTRIBUTING.md#bug-reports)
+- [License](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/CONTRIBUTING.md#license)
+
+---
+
 ## Bug reports
 
 A bug is a **demonstrable problem** that is caused by the code in the repository.
