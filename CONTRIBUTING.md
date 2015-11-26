@@ -67,7 +67,7 @@ project's developers might not want to merge into the project.
 
 ## License
 
-By contributing to our work you agree to our license which the The MIT License (MIT) and is [located here](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/LICENSE)
+By contributing to our work you agree to our license which the The MIT License that's [located here](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/LICENSE)
 
 **All code contributed will be under this license**
 
