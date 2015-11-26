@@ -4,8 +4,8 @@ http://eatfishesgetpaid.github.io
 *eat the fish, get the cash*
 
 ## Contents
-* [Contributing](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/README.md#Contributing)
 * [License](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#License)
+* [Contributing](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/README.md#Contributing)
 * [Credits](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/edit/master/README.md#Credits)
 
 ---
@@ -43,6 +43,6 @@ Please read the contributing file before adding to this project, [located here](
 ## Credits
 Made with :heart: by:
 
-- [@A1fus](twitter.com/a1fus)
-- [@JoeClarke319](twitter.com/joeclarke319)
-- [@httpjames](twitter.com/httpjames)
+- [@A1fus](http://twitter.com/a1fus)
+- [@JoeClarke319](http://twitter.com/joeclarke319)
+- [@httpjames](http://twitter.com/httpjames)
