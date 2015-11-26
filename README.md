@@ -38,9 +38,7 @@ SOFTWARE.
 ---
 
 ## Contributing
-Please read the contributing file before contributing to this project,
-
-it is [located here](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/CONTRIBUTING.md)
+Please read the contributing file before adding to this project, [located here](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/CONTRIBUTING.md)
 
 ---
 
