@@ -10,14 +10,14 @@ the developers managing and developing this open source project. In return,
 they should reciprocate that respect in addressing your issue or assessing
 patches and features.
 
----
+--
 
 ## Contents
 - [Bug reports](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/CONTRIBUTING.md#bug-reports)
 - [Pull requests](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/CONTRIBUTING.md#bug-reports)
 - [License](https://github.com/eatfishesgetpaid/eatfishesgetpaid.github.io/blob/master/CONTRIBUTING.md#license)
 
----
+--
 
 ## Bug reports
 
@@ -58,7 +58,7 @@ Example:
 > causing the bug, and potential solutions (and your opinions on their
 > merits).
 
----
+--
 
 ## Pull requests
 
