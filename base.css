@@ -1,6 +1,10 @@
-/* eat the fish, get the cash */
+﻿/* eat the fish, get the cash */
+@font-face {
+    font-family: CompactaBoldBT;
+    src: url(ufonts.com_compacta-bold-bt.ttf);
+}
 * {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'CompactaBoldBT', sans-serif;
 }
 
 #spooky {
