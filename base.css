@@ -5,8 +5,13 @@
 
 #spooky {
   text-align: center;
+  color: #008dff;
 }
 
 #vertically-align {
-  height: 50%;
+  height: 400px;
+}
+
+body {
+  background: #ff7200;
 }
